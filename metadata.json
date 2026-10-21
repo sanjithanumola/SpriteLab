@@ -1,0 +1,6 @@
+{
+  "name": "SpriteLab — Pixel Art & Animation Studio",
+  "description": "Professional browser-based pixel art editor and frame-by-frame animation studio with multi-layer editing, onion skinning, sprite sheet builder, and GIF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
